@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Time : 15"
+        android:id="@+id/menu_time_15"></item>
+    <item android:title="Time : 30"
+        android:id="@+id/menu_time_30"></item>
+    <item android:title="Time : 45"
+        android:id="@+id/menu_time_45"></item>
+
+
+</menu>
